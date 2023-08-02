@@ -1,0 +1,49 @@
+
+body{
+    margin-top: 50px;
+    background: linear-gradient(#b4e2ee 70%, #bdcaf8 80%);
+    margin-bottom: 50px;
+}
+.foto{
+    margin-top: 30px;
+}
+.main{
+    padding: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.kiri{
+    background-color: #9c849e;
+}
+.menu{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.topbar{
+    background-color: #9c849e;
+    overflow: hidden;
+}
+.topbar a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 20px 26px;
+    text-decoration: none;
+    font-size: 26px;
+}
+.isi{
+    background-color: whitesmoke;
+    color: grey;
+    height: 100%;
+}
+.isi a{
+    margin-left: 10px;
+    display: block;
+    color: white;
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.card{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
